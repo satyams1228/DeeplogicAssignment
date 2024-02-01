@@ -8,4 +8,4 @@ Open in VsCode
 Make sure NodeJs is installed 
 then node app.js
 server will start 
-![ss.png](ss.png)
+![today.png](today.png)
